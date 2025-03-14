@@ -1,0 +1,6 @@
+org\pentaho\caching\api\PentahoCacheManagerTest.class
+org\pentaho\caching\spi\AbstractCacheManagerTest.class
+org\pentaho\caching\spi\AbstractCacheProvidingServiceTest.class
+org\pentaho\caching\api\PentahoCacheTemplateConfigurationTest.class
+org\pentaho\caching\spi\AbstractCacheManagerTest$1.class
+org\pentaho\caching\api\PentahoCacheSystemConfigurationTest.class
